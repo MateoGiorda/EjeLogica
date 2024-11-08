@@ -1,0 +1,2 @@
+Fecha y hora: 08-11-2024 20:24:50, Cantidad de USD: 50.00, Importe abonado: 62500.00
+Fecha y hora: 08-11-2024 20:24:55, Cantidad de USD: 20.00, Importe abonado: 25000.00
